@@ -1,0 +1,344 @@
+Manifest-Version: 1.0
+Ant-Version: Apache Ant 1.7.0
+Application-Name: PhET Simulation
+Permissions: sandbox
+Codebase: *
+Created-By: 20.45-b01 (Sun Microsystems Inc.)
+Main-Class: edu.colorado.phet.flashlauncher.FlashLauncher
+
+Name: density-and-buoyancy-strings_bg.xml
+SHA-256-Digest: 0UrQfbjSFRkbhqflGgWyPJM6bKJBzsv1wguSeElkRb8=
+
+Name: common-strings_es_CO.xml
+SHA-256-Digest: dfeAVpKXr0y1H/5mxZNqdqjuAHK7zWfDuxtciuBykPs=
+
+Name: edu/colorado/phet/javaversionchecker/JavaVersionChecker$LocalBas
+ icService.class
+SHA-256-Digest: tKqIv+ZZ3ONxMwQ8wSLIC9ALMk0Vs80Qqu/31d/cDeQ=
+
+Name: density-and-buoyancy-strings_mr.xml
+SHA-256-Digest: vi1kVzSu7ljdvsjb/s864ckto9p3olhxrpWLnLephAk=
+
+Name: common-strings_eu.xml
+SHA-256-Digest: LZVL+UPBkB0cm2vWxxoLR1GVyoYJ+5cu9cx88wNYFr4=
+
+Name: common-strings_ar.xml
+SHA-256-Digest: ygG4z+lwYSPuEqB2grQXvxeBN3turMRQMNmzsrx+JBk=
+
+Name: get_flash.jpg
+SHA-256-Digest: VEdQQFhpeP8AKZuOOHreX9lHOEQWo80Jzds77kzSJ9Q=
+
+Name: density-and-buoyancy-strings_eu.xml
+SHA-256-Digest: Xr1cZh1nf1SFc2Xof/7SZkqCX+navr5cV2jUZtPKqr0=
+
+Name: density-and-buoyancy-strings_kk.xml
+SHA-256-Digest: twldqmPie4CkUubkSJ672LvxKyqF3glFbTxwpLrQ2xE=
+
+Name: density-and-buoyancy-strings_fa.xml
+SHA-256-Digest: JjvVe9GJRyQFIG5R99QaXhsdBTWDkMnxRFLGQsMUrwc=
+
+Name: density-and-buoyancy-strings_ar.xml
+SHA-256-Digest: h1c7js4yVa+Lx6HmAjfTXCx1dZ56x2LduIQXKS0BA/w=
+
+Name: density-and-buoyancy-strings_pl.xml
+SHA-256-Digest: WZAlfsLdcpjSIXdDwW70J/lltQp/xh6XaBk7pat6k/k=
+
+Name: common-strings_el.xml
+SHA-256-Digest: /PeFJkgQ6lpWnmVyEvYakVVuArIZluqWW9Ns3o6urac=
+
+Name: image002.gif
+SHA-256-Digest: R4j47oBa4OVjeN3TKqQ8G/4KEWHkAbYCTe9+4eoUQTs=
+
+Name: density-and-buoyancy-strings_zh_CN.xml
+SHA-256-Digest: KhUoS/o38kKlRCTgoD15L5AYvYak3lDJZ379Jvo7KCM=
+
+Name: density-and-buoyancy-strings_be.xml
+SHA-256-Digest: OMd4oWAsKHL1faAMxFzHsBPQ0FIBvrGdarauju64epE=
+
+Name: density-and-buoyancy-strings_en.xml
+SHA-256-Digest: pV2S4Jekc5gcnHUZiQrOFLuenPGuTM1EGVmPOLarmnY=
+
+Name: flash-launcher/contrib-licenses/license-info.txt
+SHA-256-Digest: 3wwyEN2M0JDMMI9BqotN038/yiAeTtrYb7yU9cBylvQ=
+
+Name: density-and-buoyancy-strings_es.xml
+SHA-256-Digest: 5HvwMpJ7acwwzZ1WVa5+mpdEnLIe+fLFONhWRERc5oU=
+
+Name: density-and-buoyancy-strings_ga.xml
+SHA-256-Digest: h2ozurU1Batgnyj91XEvZmBJvUacXrWDhlAqEfWSoa4=
+
+Name: density-and-buoyancy-strings_da.xml
+SHA-256-Digest: Jy1bDrbqyOFZHtOzceMZbhtddNoDLD6/H5y9kAzI8oE=
+
+Name: common-strings_en.xml
+SHA-256-Digest: xdN6B4FRAPGJpo0VLDMDJMyW/T0jMrXs4kjsG17N9t4=
+
+Name: edu/colorado/phet/flashlauncher/util/FileUtils$1.class
+SHA-256-Digest: DQ9T8PkcgNzt71PP7ez8XGy1rhVAUhmlDpX+9sKmBXY=
+
+Name: density-and-buoyancy-strings_mk.xml
+SHA-256-Digest: 1KJRrKQXwWLcwtsAKtF3tZcwwF+225zgemoi9A2Dmkc=
+
+Name: common-strings_zh_CN.xml
+SHA-256-Digest: 830ArJc6npgiKm+VS3P3yhHkuHaJp+eYDsT4DAllR80=
+
+Name: edu/colorado/phet/javaversionchecker/JavaVersionChecker.class
+SHA-256-Digest: skRmWxBkm0YYg0+1DmYnTHWoHEFmCIw970saQeKf9GY=
+
+Name: common-strings_mk.xml
+SHA-256-Digest: t4Chj4/jtwtcSeBNFYP+R7zEQ9Ox7aUYg5k7dpbEkB4=
+
+Name: density-and-buoyancy-strings_km.xml
+SHA-256-Digest: +o1z4n0pH9WUubfGguZ80GWpgYmfJX9hceRxZ/iZe6g=
+
+Name: density-and-buoyancy-strings_hu.xml
+SHA-256-Digest: RkVJJ42o31t0t86TaXab4cPq/N7+phB0e37o8RTNMw4=
+
+Name: common-strings_sl.xml
+SHA-256-Digest: 9pzpj0zA/jfQurvhYWyCuYYUdUuBSvU3IAcK6BvaLjI=
+
+Name: density-and-buoyancy-strings_el.xml
+SHA-256-Digest: LaVkF2jZaQanks7A7p/GN3hWKWMN09ZP4eDLAvv77Q0=
+
+Name: density-and-buoyancy-strings_it.xml
+SHA-256-Digest: ZhVyo0FDVIGjygvGu3gYRQ5FcpStsqFgOnQOTWvxrGY=
+
+Name: density-and-buoyancy-strings_nl.xml
+SHA-256-Digest: 2ja7wBBwmtde20t0qf6cZqyD2N28iGBYGugfZpd7dfU=
+
+Name: common-strings_hu.xml
+SHA-256-Digest: Un3rcNkcX8F4xQ+W8nwF28+7v+7IaqhyMouJDOayHUo=
+
+Name: common-strings_ko.xml
+SHA-256-Digest: 8BI7NOWTdz1OyU+1vPiCviCvXdeVBYGrOtGPRaPrYgs=
+
+Name: density-and-buoyancy-strings_ro.xml
+SHA-256-Digest: gSEGpnVq9G7oGFE7V3N7MFuNHWyqSciR9HzAPw053kc=
+
+Name: common-strings_ro.xml
+SHA-256-Digest: Ua3LeTDU0+RUMcqu1S0qsFoHcNZGFIIzaQszcQxqYuY=
+
+Name: buoyancy.swf
+SHA-256-Digest: i0HDy5CVtvWdUp7Q/L6aRvHinaHpd7Beyo9WRvyX9XE=
+
+Name: density-and-buoyancy-strings_vi.xml
+SHA-256-Digest: gStMZ+31xlF3rMfkwyAwZfp5FlpShlbLZP63/ufh3Fs=
+
+Name: density-and-buoyancy-strings_ko.xml
+SHA-256-Digest: xvicW/2rUvqQGF7NLQUF7Q6gQu4c23eOq6lQ8TvHJ+8=
+
+Name: density-and-buoyancy-strings_sl.xml
+SHA-256-Digest: kfmXus3naaUlTSiIQNLNNusVAL9i3xPRC3EuisLQyXw=
+
+Name: density-and-buoyancy-strings_ar_SA.xml
+SHA-256-Digest: 63Ijt9CZWyH/kI5D9F3rZbuUBHAVGEE6rwzGu5BuH4o=
+
+Name: density-and-buoyancy-strings_gl.xml
+SHA-256-Digest: AIvFmjTf+V1Z+h3FRSijfVYAP9/FoH3ouSp25tCeYK4=
+
+Name: common-strings_lv.xml
+SHA-256-Digest: HcYhQhUT/qRADPXd/X1qCQlEkzRbbX5oOzqfs8Wwf3k=
+
+Name: common-strings_es.xml
+SHA-256-Digest: gIJu4i/i47EfBDeBPt/2YQusTCdMv8xMwX56TssmHDE=
+
+Name: density-and-buoyancy-strings_th.xml
+SHA-256-Digest: O8mKtW5SANljPBjagKfu//NaCPCX5qqeZoXZfi29HWw=
+
+Name: density-and-buoyancy-strings_uk.xml
+SHA-256-Digest: OHClvpn0q0WRm7hCY27ijDgkEdNbLXBhEOiU6LtDLFo=
+
+Name: edu/colorado/phet/flashlauncher/util/XMLUtils.class
+SHA-256-Digest: exD86OGtRADoks5InjPougl9Zngyu+1AoHojBSdiXh8=
+
+Name: density-and-buoyancy-strings_fr.xml
+SHA-256-Digest: ve4+Hn5d2XuqEZ2cimOuz+U4g86X6d4NO1p84qPnejw=
+
+Name: common-strings_vi.xml
+SHA-256-Digest: 9wNPdktdsp5NZd9kT9vxDmIjub+BMtXSwzW7qtVDP4Y=
+
+Name: density-and-buoyancy-strings_es_PE.xml
+SHA-256-Digest: BcuwGqJfEGnfB0UxI6Tqcjv/jvC9WEcwAsaOJ52V0+Y=
+
+Name: density-and-buoyancy-strings_de.xml
+SHA-256-Digest: kc1tkB0XKt85J5+T48Q+4E+Vc/6qTjy/zexKqlpbTZM=
+
+Name: density-and-buoyancy-strings_ta.xml
+SHA-256-Digest: c3Qvpb/WtUddJq7B/iVCJJX0jVTvo20Jy9kATJ/AcFU=
+
+Name: flash-template.html
+SHA-256-Digest: XmGa51iVjJnFsS7qE8ixfEV1hRDjzOyZXj+yuiUC3ao=
+
+Name: density-and-buoyancy-strings_sw.xml
+SHA-256-Digest: 1/g3dnWg7wZt8t4mF0RtJ/KevMKVfV3psxvJ0YbJn7k=
+
+Name: density-and-buoyancy-strings_mn.xml
+SHA-256-Digest: V1EdRUQRc80DOchp+fK+G8c4JdZ0QMceBoAznZf3DTU=
+
+Name: edu/colorado/phet/flashlauncher/util/AnnotationParser.class
+SHA-256-Digest: LU9rvDcfiPVZiS+zrf9pgNrueVALrMX61gzUl7anPzQ=
+
+Name: common-strings_ka.xml
+SHA-256-Digest: zCkjDnShotx3+uw9mOt6gB2dN/3HksE6vcs2ZU1q/XE=
+
+Name: image001.gif
+SHA-256-Digest: WCAwAMNBviNuwuFqwbXat6u7UL+C4aoHQIeoLTS8gGQ=
+
+Name: edu/colorado/phet/javaversionchecker/JavaVersionChecker$1.class
+SHA-256-Digest: BaZisNe1mc03ZgOjNHP3NIsMghWpaoL74o6elwM1/gU=
+
+Name: edu/colorado/phet/flashlauncher/util/SimulationProperties.class
+SHA-256-Digest: esCnQqPOWW6UNKyHNNhly5qr1L8cF+cKg1U+nKm/3/Q=
+
+Name: density-and-buoyancy-strings_in.xml
+SHA-256-Digest: Ceq/yX5DqYPXj7eyIFYJsK0Hb6EgD6nyopBd6C24+S8=
+
+Name: density-and-buoyancy-strings_ka.xml
+SHA-256-Digest: OIH5KO4DVWNMI3DWI3NfCdKLJSAFNHnqofj94qrpNLw=
+
+Name: common-strings_fi.xml
+SHA-256-Digest: tXoFxP4I+hoIsfdyVaJfcNvnuZLfZSlRY7bi34nOmws=
+
+Name: density-and-buoyancy-strings_sr.xml
+SHA-256-Digest: ctJ1U0b+FkGxjzNq025PyC2j3q9idpXFwfRaMYklHq8=
+
+Name: common-strings_fr.xml
+SHA-256-Digest: c1V427/ORfXkp7wS8yudy2Wsluszvr0Xam/sfpCOkbA=
+
+Name: density-and-buoyancy-strings_pt_BR.xml
+SHA-256-Digest: 9aKk+7wkg4yYeiSIt+5luP4R2sbAEQ6VHmeOoQhzgd8=
+
+Name: common-strings_sr.xml
+SHA-256-Digest: brkFxP5p/b9twznNA1Pr0dLZpGCuKrihuYuyu+PJPqk=
+
+Name: density-and-buoyancy-strings_hr.xml
+SHA-256-Digest: zzfblx35G/k7xLJmfyKfop9sP/lKl35SpsYbRRVpTu0=
+
+Name: density-and-buoyancy-strings_fi.xml
+SHA-256-Digest: 7LRT+x/9FsDnaBdfBnnWgU1oDEqtOmn5nMbP/AVbG0g=
+
+Name: edu/colorado/phet/flashlauncher/FlashLauncher.class
+SHA-256-Digest: Vfry1gqpwMquwmyOUgUsir0byy7/eqnodlv7bN90q/0=
+
+Name: common-strings_ar_SA.xml
+SHA-256-Digest: XR5L/LwMRoCwb84FHu++CIhyngXTz49oPumu0OMNG3U=
+
+Name: common-strings_pt_BR.xml
+SHA-256-Digest: WVDzjDyk14M9vBy1V2ML1/mnyha0N6U7Zhswqfe7mwk=
+
+Name: common-strings_iw.xml
+SHA-256-Digest: i7+A9Y06G6R+jux36CyWOMtH/ZROeyEOX/1ekt9wDv8=
+
+Name: density-and-buoyancy-strings_ja.xml
+SHA-256-Digest: oyaiTwI+cv9nWnAN6ewvQcqlhk/fPHLU4ahN7JGNOyY=
+
+Name: density-and-buoyancy-strings_kn.xml
+SHA-256-Digest: ti1+67euaJ8dZRMrHzzdHHVFSdpoYjhmHf19Dm9Js00=
+
+Name: density-and-buoyancy.properties
+SHA-256-Digest: 58BeFAtWsHe5/VzZqcF2fYckK44JepuWoN8oyc//jqg=
+
+Name: density-and-buoyancy-strings_sk.xml
+SHA-256-Digest: p7g1UnnGI45hyd3HqAfgnsclnp7JyYv7OFAiZazXt90=
+
+Name: density-and-buoyancy-strings_iw.xml
+SHA-256-Digest: yjH9aglcNJegam9aU92PtYWdbapbDeKUXfBLl4/SlHE=
+
+Name: density-and-buoyancy-strings_pt.xml
+SHA-256-Digest: foUKEA6Dhg6yvBZRx4INSUgwOUpYoVNZQzfRUzSC3hg=
+
+Name: density-and-buoyancy-strings_bs.xml
+SHA-256-Digest: QK8rGK7h12YJ5TtnZw0uGppJjT24H4+uI8bBnqlSuJU=
+
+Name: edu/colorado/phet/flashlauncher/util/FileUtils.class
+SHA-256-Digest: jgd73YAAMfj33doq7Q1VLRX0NBImm0+dQaWNCHU3wZU=
+
+Name: common-strings_sk.xml
+SHA-256-Digest: BSxVwQ2FUl5eiPLblqC3VRFqleiZiM46+MBQTA4PZBM=
+
+Name: density-and-buoyancy-strings_ht.xml
+SHA-256-Digest: FMI7ctoPCvzVEcZbFSrLdwYL2Vn4tyJp49ofBUtpVS4=
+
+Name: common-strings_zh_TW.xml
+SHA-256-Digest: 9WAi6VC1X/doAytD28jUB7KkJths+SD8FkuSrYsYuDw=
+
+Name: density-and-buoyancy-strings_et.xml
+SHA-256-Digest: /kvINoTs6cgLTmcl2NkfuA+odaiOOXyGNc5LdHh/WS0=
+
+Name: density-and-buoyancy-strings_zh_TW.xml
+SHA-256-Digest: yPYJW+vamfG+ZAS5RbHYLXkNaHjaGQC1Npdcxy89guo=
+
+Name: common-strings_pt.xml
+SHA-256-Digest: c/fW7j+iD5eTVoD1PN8sbp34YKow34jSBbfz9l90XmU=
+
+Name: density-and-buoyancy-strings_tk.xml
+SHA-256-Digest: lvhyuZh25Uz40AmRZxj2PVlavswME4dSFXj4fGRZzK8=
+
+Name: density-and-buoyancy-strings_sv.xml
+SHA-256-Digest: FKj4LMqb5lXic0grlDYq0OfXi1jJBRAHI84RwQFoaDQ=
+
+Name: density-and-buoyancy-strings_ca.xml
+SHA-256-Digest: Q3E54dkNJu6G0qpE7npKgdRfRyUq1IOSTfzSKgimYU4=
+
+Name: software-agreement.htm
+SHA-256-Digest: JgsWb8+jcF/07qnLVqEAUquqt+dJLGb62K5vH4KYp0s=
+
+Name: edu/colorado/phet/flashlauncher/util/AnnotationParser$Annotation
+ .class
+SHA-256-Digest: EdoplQ0d81UMByP2boL3ZzzZudPwTrbD9p1RYFTGOz0=
+
+Name: simulation.properties
+SHA-256-Digest: PHxYNV9Ay7T6feYFm3b2bcoBAPPgyQxNo3v0QF0/5fg=
+
+Name: density-and-buoyancy-strings_ku_TR.xml
+SHA-256-Digest: 10f877pNDqKGslGuI3sZiqp2cuWcTV5PE/KDCisaeWw=
+
+Name: common-strings_ru.xml
+SHA-256-Digest: PWUkAv+oyT7NX7N56H9Zx2dax3oBjQMb4HBRTEIx9oA=
+
+Name: density-and-buoyancy-strings_af.xml
+SHA-256-Digest: siSbP4tn+qJWxY2Y+xfv22SIEOr9xVpoiHoqtHbtzlY=
+
+Name: software-agreement.properties
+SHA-256-Digest: fNGCIOeebjnBUVezlOqAL8sDO1UGjpnRqrqDpQKmyOc=
+
+Name: density-and-buoyancy-strings_es_MX.xml
+SHA-256-Digest: 1AU/s9cz3XUupuF66sGAEeCBBda6OOSkZYnbMac+M3k=
+
+Name: common-strings_tr.xml
+SHA-256-Digest: 9HDfCUILexflkATn/u7JTouLF4uflpkOEGsBJRliyMQ=
+
+Name: density-and-buoyancy-strings_cs.xml
+SHA-256-Digest: qttWCDDCRsrbWhUKfrZ+XcKEYVtPFbkyoSAauqlcclk=
+
+Name: density-and-buoyancy-strings_ru.xml
+SHA-256-Digest: xva1eBbL23taTbMY1bqK9+Zh6pNbVz0LDySA37iPDS0=
+
+Name: density-and-buoyancy-strings_is.xml
+SHA-256-Digest: hNyN9oMmbfx+G9ELjPHkiNYOvB++fCs4FFeNSCkOne0=
+
+Name: common-strings_nb.xml
+SHA-256-Digest: eqvSEkJuvczv3xp1WFj2EKGtw0b/16jxW1hYJvazHOw=
+
+Name: edu/colorado/phet/flashlauncher/util/BareBonesBrowserLaunch.clas
+ s
+SHA-256-Digest: aXMOjBNAz5C0O9QgOrICyU99CrCTEGgZtC686nLWx7Q=
+
+Name: density-and-buoyancy-strings_tr.xml
+SHA-256-Digest: cMDjrNH8MlQXTn5Qs6gdeSMwu8aStvzXl0AKTMOFeag=
+
+Name: density-and-buoyancy-strings_am.xml
+SHA-256-Digest: UA8R7HoBA+GDA32RoYSw1vk/mXaIAqi6PBlmAo3YrF4=
+
+Name: credits.txt
+SHA-256-Digest: IgSiXQx3RD+nvvxdQRoX1rC+cYdRGjs9G6dmivjr53w=
+
+Name: edu/colorado/phet/flashlauncher/FlashHTML.class
+SHA-256-Digest: g6Sz4OHq2aYpMJMzJoj5vxRTuY0tHyQ/n2HSpUznzJA=
+
+Name: edu/colorado/phet/javaversionchecker/JavaVersionChecker$2.class
+SHA-256-Digest: 9447VmYAj5YE0ESjexvl0xhxjP33A4kP0gGAzPiJeJg=
+
+Name: common-strings_hr.xml
+SHA-256-Digest: rTXlgtdNT/PZgSsW0EU+I5+uOPRnm94ZJGG5ibE1dJ4=
+
